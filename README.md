@@ -1,1 +1,2 @@
 # DSC265kaggle
+This project included NLP function which can remove meaningless texts like punctuations and stopwards for machine learning. In this specific example, we trained logistic regression model to predict whether a tweet is from a Repulican or a Democrat. Ensemble method are also included to increase the accuracy. Whole project is coded with python, as a submission of kaggle competition from course DSC265 University of Rochester. All work has been done by me and my teammate.
